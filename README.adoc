@@ -24,4 +24,4 @@ constructor or field initializer can be used, it keeps API clean and simple.
 
 == Examples?
 
-[Provided sample]https://github.com/yosadchyi/Entitas.Generic/tree/master/Entitas.Sample contains complete example how to define components and setup system.
+https://github.com/yosadchyi/Entitas.Generic/tree/master/Entitas.Sample[Provided sample] contains complete example how to define components and setup system.
