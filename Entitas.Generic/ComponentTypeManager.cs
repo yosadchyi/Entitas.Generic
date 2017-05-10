@@ -4,7 +4,7 @@ using System.Reflection;
 using Entitas;
 
 // ReSharper disable StaticMemberInGenericType
-namespace Unscientificlab.Entity
+namespace Entitas.Generic
 {
     /// <summary>
     /// Component type manager: manages component types per scope

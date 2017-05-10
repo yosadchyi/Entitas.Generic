@@ -8,8 +8,8 @@
     <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Unscientificlab.Entity</RootNamespace>
-    <AssemblyName>Unscientificlab.Entity</AssemblyName>
+    <RootNamespace>Entitas.Generic</RootNamespace>
+    <AssemblyName>Entitas.Generic</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -34,10 +34,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Entitas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\EntitasSample\lib\Entitas.dll</HintPath>
+      <HintPath>..\Entitas.Sample\bin\Debug\Entitas.dll</HintPath>
     </Reference>
     <Reference Include="Entitas.Utils, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\EntitasSample\lib\Entitas.Utils.dll</HintPath>
+      <HintPath>..\Entitas.Sample\bin\Debug\Entitas.Utils.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

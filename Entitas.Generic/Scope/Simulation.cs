@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Unscientificlab.Entity
+namespace Entitas.Generic
 {
     /// <summary>
     /// Simulation scope

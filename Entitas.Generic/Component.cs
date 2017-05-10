@@ -1,6 +1,6 @@
 ﻿using Entitas;
 
-namespace Unscientificlab.Entity
+namespace Entitas.Generic
 {
     public class Component<TData>: IComponent
     {

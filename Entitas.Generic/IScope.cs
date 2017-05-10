@@ -1,4 +1,4 @@
-﻿namespace Unscientificlab.Entity
+﻿namespace Entitas.Generic
 {
     /// <summary>
     /// Marker interface for Scopes

@@ -1,7 +1,7 @@
 ﻿using System;
 using Entitas;
 
-namespace Unscientificlab.Entity
+namespace Entitas.Generic
 {
     public class AERCFactories
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Unscientificlab.Entity
+namespace Entitas.Generic
 {
     [AttributeUsage(AttributeTargets.Class | AttributeTargets.Struct)]
     public class ComponentData: Attribute

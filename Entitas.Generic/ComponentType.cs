@@ -1,6 +1,6 @@
 ﻿using Entitas;
 
-namespace Unscientificlab.Entity
+namespace Entitas.Generic
 {
     /// <summary>
     /// ComponentType class holds information about component type id in static property.

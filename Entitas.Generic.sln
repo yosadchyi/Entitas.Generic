@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.0.0
 MinimumVisualStudioVersion = 10.0.0.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntitasSample", "EntitasSample/EntitasSample.csproj", "{5CFE1F5D-7AE9-4EEA-9DCA-D43F6D496CF9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entitas.Sample", "Entitas.Sample/Entitas.Sample.csproj", "{5CFE1F5D-7AE9-4EEA-9DCA-D43F6D496CF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unscientificlab.Entity", "Unscientificlab.Entity\Unscientificlab.Entity.csproj", "{A6B60520-7ED0-4305-9EA3-AE261BDF5C6A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entitas.Generic", "Entitas.Generic\Entitas.Generic.csproj", "{A6B60520-7ED0-4305-9EA3-AE261BDF5C6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

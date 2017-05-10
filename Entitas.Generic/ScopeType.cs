@@ -1,4 +1,4 @@
-﻿namespace Unscientificlab.Entity
+﻿namespace Entitas.Generic
 {
     public class ScopeType<TScope> where TScope : IScope
     {

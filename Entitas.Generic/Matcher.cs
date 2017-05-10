@@ -1,6 +1,6 @@
 ﻿using Entitas;
 
-namespace Unscientificlab.Entity
+namespace Entitas.Generic
 {
     public class Matcher<TScope, TComponentData> where TScope: IScope
     {

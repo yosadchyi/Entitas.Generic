@@ -47,9 +47,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Unscientificlab.Entity\Unscientificlab.Entity.csproj">
+    <ProjectReference Include="..\Entitas.Generic\Entitas.Generic.csproj">
       <Project>{a6b60520-7ed0-4305-9ea3-ae261bdf5c6a}</Project>
-      <Name>Unscientificlab.Entity</Name>
+      <Name>Entitas.Generic</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

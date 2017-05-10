@@ -1,7 +1,7 @@
 ﻿using System;
 using Entitas;
 
-namespace Unscientificlab.Entity
+namespace Entitas.Generic
 {
     /// <summary>
     /// Context for given scope
