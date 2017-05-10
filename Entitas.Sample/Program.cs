@@ -1,5 +1,4 @@
 ﻿using System;
-using Entitas;
 
 namespace Entitas.Generic
 {
@@ -14,13 +13,6 @@ namespace Entitas.Generic
             X = x;
             Y = y;
             Z = z;
-        }
-
-        public void MulAdd(ref Vector3 addendum, float scale)
-        {
-            X += addendum.X * scale;
-            Y += addendum.Y * scale;
-            Z += addendum.Z * scale;
         }
 
         public static Vector3 operator +(Vector3 a, Vector3 b)
